@@ -43,6 +43,16 @@ This project compresses plain text `.txt` files into compressed binary `.bin` fi
 ├── .gitignore # Files ignored by git
 └── README.md # Project documentation
 
+---
 
+## 🛠️ Build Instructions
+
+Build the project using CMake:
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
 
  
