@@ -66,6 +66,7 @@ After building the project using CMake, run the executable from the root directo
 ./build/main demo.txt
 
 ### To decompress a `.bin` file:
+
 ```bash
 ./build/main demo.bin
 
