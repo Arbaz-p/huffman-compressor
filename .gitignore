@@ -3,6 +3,7 @@ build/
 *.o
 *.exe
 *.bin
+!demo.bin
 CMakeCache.txt
 CMakeFiles/
 Makefile
