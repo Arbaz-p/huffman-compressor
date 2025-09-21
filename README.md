@@ -56,3 +56,19 @@ cmake ..
 make
 
  
+## 🚀 Usage
+
+After building the project using CMake, run the executable from the root directory.
+
+### To compress a `.txt` file:
+
+```bash
+./build/main demo.txt
+
+### To decompress a `.bin` file:
+```bash
+./build/main demo.bin
+
+
+
+
