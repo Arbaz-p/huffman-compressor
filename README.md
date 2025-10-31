@@ -54,7 +54,7 @@ mkdir build
 cd build
 cmake ..
 make
-
+```
  
 ## 🚀 Usage
 
@@ -64,12 +64,12 @@ After building the project using CMake, run the executable from the root directo
 
 ```bash
 ./build/main demo.txt
-'''
+```
 ### To decompress a `.bin` file:
 
 ```bash
 ./build/main demo.bin
-'''
+```
 
 
 
