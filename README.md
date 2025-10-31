@@ -28,9 +28,7 @@ This project compresses plain text `.txt` files into compressed binary `.bin` fi
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
-```bash
+```text
 .
 ├── CMakeLists.txt          # Build configuration
 ├── main.cpp                # Main program entry point
