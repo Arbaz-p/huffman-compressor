@@ -28,20 +28,24 @@ This project compresses plain text `.txt` files into compressed binary `.bin` fi
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```bash
 .
-├── CMakeLists.txt # Build configuration
-├── main.cpp # Main program entry point
-├── src/ # Source code files
-│ ├── encoding/ # Encoding (compression) related source files
-│ └── decoding/ # Decoding (decompression) related source files
-├── header/ # Header files
-│ ├── encoding/ # Encoding related headers
-│ └── decoding/ # Decoding related headers
-├── demo.txt # Sample input text file
-├── demo.bin # Compressed binary file
-├── demo.huff # Decompressed output file
-├── .gitignore # Files ignored by git
-└── README.md # Project documentation
+├── CMakeLists.txt          # Build configuration
+├── main.cpp                # Main program entry point
+├── src/                    # Source code files
+│   ├── encoding/           # Encoding (compression) related source files
+│   └── decoding/           # Decoding (decompression) related source files
+├── header/                 # Header files
+│   ├── encoding/           # Encoding related headers
+│   └── decoding/           # Decoding related headers
+├── demo.txt                # Sample input text file
+├── demo.bin                # Compressed binary file
+├── demo.huff               # Decompressed output file
+├── .gitignore              # Files ignored by git
+└── README.md               # Project documentation
+```
 
 ---
 
